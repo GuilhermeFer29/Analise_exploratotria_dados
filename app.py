@@ -6,6 +6,7 @@ import streamlit as st
 from streamlit_folium import folium_static
 import folium
 from geopy.geocoders import Nominatim
+from geopy.extra.rate_limiter import RateLimiter
 
 # Configurar a página
 st.set_page_config(page_title="Análise de TI", layout="wide")
@@ -45,7 +46,7 @@ with col3:
     st.bar_chart(paises_comuns)
     
 
-from geopy.extra.rate_limiter import RateLimiter
+
 
 
 st.header("Mapa de Profissionais")
