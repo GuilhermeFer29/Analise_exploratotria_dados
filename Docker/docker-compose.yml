@@ -1,7 +1,6 @@
 version: '3'
 services:
-  analise-ti:
-    build: .
-    ports:
-      - "8501:8501"
-    restart: unless-stopped
+  meu-servico:
+    build:
+      context: .       # Diretório do Dockerfile
+      dockerfile: Dockerfile  # Nome do arquivo

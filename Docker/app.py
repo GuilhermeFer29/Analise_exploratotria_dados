@@ -3,6 +3,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
+from streamlit_folium import folium_static
+import folium
+from geopy.geocoders import Nominatim
 
 # Configurar a página
 st.set_page_config(page_title="Análise de TI", layout="wide")
@@ -40,15 +43,54 @@ with col3:
     st.subheader("Top Países")
     paises_comuns = df['País'].value_counts()
     st.bar_chart(paises_comuns)
+    
+    
+# Adicione no início do arquivo
+from geopy.extra.rate_limiter import RateLimiter
 
-# Mapa (Folium)
+# ... (código anterior)
+
 st.header("Mapa de Profissionais")
-import folium
-from streamlit_folium import folium_static
 
+# Configurar o geolocalizador com rate limiting
+geolocator = Nominatim(
+    user_agent="TI_Analysis_App/1.0",
+    timeout=15
+)
+geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1)
+
+# Criar mapa
 mapa = folium.Map(location=[-14.2350, -51.9253], zoom_start=4)
-for cidade in df["Cidade"].unique():
-    # Adicione lógica para geolocalização (exemplo simplificado)
-    # (Substitua por sua implementação real)
-    pass
+
+# Pré-processar cidades
+cidades_validas = []
+with st.spinner("Processando localizações..."):
+    progress_bar = st.progress(0)
+    total_cidades = len(df["Cidade"].unique())
+    
+    for i, cidade in enumerate(df["Cidade"].unique()):
+        try:
+            if pd.isna(cidade):
+                continue
+                
+            # Busca com país para melhor precisão
+            location = geocode(f"{cidade}, Brasil")
+            
+            if location:
+                folium.Marker(
+                    [location.latitude, location.longitude],
+                    popup=f"{cidade}",
+                    icon=folium.Icon(color="blue", icon="cloud")
+                ).add_to(mapa)
+                cidades_validas.append(cidade)
+            
+            progress_bar.progress((i + 1) / total_cidades)
+            
+        except Exception as e:
+            st.error(f"Erro na cidade {cidade}: {str(e)}")
+            continue
+
 folium_static(mapa)
+
+# Mostrar estatísticas
+st.write(f"**Cidades mapeadas:** {len(cidades_validas)} de {total_cidades}")
