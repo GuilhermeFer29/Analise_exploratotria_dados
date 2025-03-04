@@ -14,7 +14,7 @@ st.title("Análise Exploratória de Dados de TI")
 # Carregar dados
 df = pd.read_csv('./funcionarios_ti_nomes.csv')
 
-# Seção 1: Distribuição de Salários
+# Seção 1:
 st.header("Distribuição de Salários")
 st.write(df['Salário'].describe())
 
@@ -23,12 +23,12 @@ fig1, ax1 = plt.subplots(figsize=(10, 4))
 sns.histplot(df['Salário'], bins=15, kde=True, color='green', ax=ax1)
 st.pyplot(fig1)
 
-# Seção 2: Salário Médio por Cargo
+# Seção 2:
 st.header("Salário Médio por Cargo")
 salario_por_cargo = df.groupby('Cargo')['Salário'].mean().sort_values(ascending=False)
 st.bar_chart(salario_por_cargo)
 
-# Seção 3: Distribuição Geográfica
+# Seção 3:
 st.header("Distribuição Geográfica")
 col1, col2, col3 = st.columns(3)
 with col1:
@@ -44,15 +44,13 @@ with col3:
     paises_comuns = df['País'].value_counts()
     st.bar_chart(paises_comuns)
     
-    
-# Adicione no início do arquivo
+
 from geopy.extra.rate_limiter import RateLimiter
 
-# ... (código anterior)
 
 st.header("Mapa de Profissionais")
 
-# Configurar o geolocalizador com rate limiting
+# Configurar o geolocalizador
 geolocator = Nominatim(
     user_agent="TI_Analysis_App/1.0",
     timeout=15
@@ -73,8 +71,8 @@ with st.spinner("Processando localizações..."):
             if pd.isna(cidade):
                 continue
                 
-            # Busca com país para melhor precisão
-            location = geocode(f"{cidade}, Brasil")
+            
+            location = geocode(f"{cidade}")
             
             if location:
                 folium.Marker(
