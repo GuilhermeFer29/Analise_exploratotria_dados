@@ -1,0 +1,201 @@
+Nome,Cargo,Salário,Cidade,Estado,País
+Camila Rocha,Scrum Master,21876,Florianópolis,SC,Brasil
+João Vitor Ferreira,Analista de Redes,5420,Buenos Aires,Buenos Aires,Argentina
+Juan Ribeiro,Analista de Suporte,13862,Fortaleza,CE,Brasil
+Paulo da Cunha,Analista de Redes,23171,Buenos Aires,Buenos Aires,Argentina
+Ana Vitória Freitas,Gerente de TI,7512,Rio de Janeiro,RJ,Brasil
+Enrico Pereira,Desenvolvedor Backend,8501,Brasília,DF,Brasil
+Luigi Lima,DevOps Engineer,19082,São Paulo,SP,Brasil
+Dr. João Guilherme Novaes,Analista de Suporte,8118,Porto,Porto,Portugal
+Anthony Costela,Analista de Suporte,10020,Belo Horizonte,MG,Brasil
+Catarina Nogueira,Arquiteto de Software,12990,Curitiba,PR,Brasil
+Lorena Gonçalves,DevOps Engineer,8831,Rio de Janeiro,RJ,Brasil
+Rebeca Gomes,Desenvolvedor Backend,22711,Madrid,Madrid,Espanha
+Vicente Moreira,DevOps Engineer,10492,Belo Horizonte,MG,Brasil
+João Guilherme Barbosa,DevOps Engineer,16124,Florianópolis,SC,Brasil
+Gabriela Lima,DevOps Engineer,20434,Rio de Janeiro,RJ,Brasil
+Rodrigo da Paz,Cientista de Dados,4937,Belo Horizonte,MG,Brasil
+Lucca da Mota,Analista de Suporte,16880,Recife,PE,Brasil
+Lucas Peixoto,Analista de Suporte,13458,Curitiba,PR,Brasil
+Benício da Rosa,Desenvolvedor Frontend,13367,Brasília,DF,Brasil
+Bryan da Paz,Gerente de TI,11187,Recife,PE,Brasil
+Isabelly da Rosa,Administrador de Sistemas,22335,Belo Horizonte,MG,Brasil
+Sr. Gabriel Pereira,Desenvolvedor Backend,22143,Porto Alegre,RS,Brasil
+Letícia Gonçalves,Scrum Master,24212,Florianópolis,SC,Brasil
+Sr. Miguel Pires,Administrador de Sistemas,7068,Florianópolis,SC,Brasil
+Natália Rodrigues,Analista de Suporte,24793,Fortaleza,CE,Brasil
+Augusto Cardoso,Analista de Redes,16128,Salvador,BA,Brasil
+Ana Vitória Monteiro,Analista de Redes,7038,Porto Alegre,RS,Brasil
+Fernando Nascimento,Administrador de Sistemas,15655,Lisboa,Lisboa,Portugal
+Dr. Pietro Cunha,Gerente de TI,15346,Recife,PE,Brasil
+Agatha Rocha,Desenvolvedor Frontend,11737,Florianópolis,SC,Brasil
+Alexandre Cardoso,Gerente de TI,14765,Rio de Janeiro,RJ,Brasil
+Elisa Azevedo,Analista de Redes,13972,Florianópolis,SC,Brasil
+João Miguel Lima,Gerente de TI,5740,Florianópolis,SC,Brasil
+Marcos Vinicius Almeida,Desenvolvedor Backend,18618,Rio de Janeiro,RJ,Brasil
+Leandro Pinto,Analista de Suporte,17674,Brasília,DF,Brasil
+Thales Alves,Engenheiro de Dados,21681,Buenos Aires,Buenos Aires,Argentina
+Eduarda Ribeiro,Analista de Redes,6313,Belo Horizonte,MG,Brasil
+Júlia Farias,Scrum Master,16058,Porto,Porto,Portugal
+Srta. Luana Rodrigues,Desenvolvedor Backend,5681,Lisboa,Lisboa,Portugal
+Nathan Farias,Desenvolvedor Frontend,18085,Belo Horizonte,MG,Brasil
+Nicole Castro,Analista de Segurança,10815,Porto,Porto,Portugal
+Danilo Costela,Administrador de Sistemas,23076,Florianópolis,SC,Brasil
+Brenda da Rosa,Analista de Segurança,22544,Curitiba,PR,Brasil
+Srta. Luiza Cardoso,Analista de Redes,18133,Fortaleza,CE,Brasil
+Daniela da Luz,DevOps Engineer,19240,Belo Horizonte,MG,Brasil
+Emanuel Cardoso,Analista de Redes,16656,Brasília,DF,Brasil
+Thiago Duarte,Gerente de TI,9589,Porto,Porto,Portugal
+Pietra da Rocha,Arquiteto de Software,9518,Madrid,Madrid,Espanha
+Yago Costa,Analista de Segurança,13524,Barcelona,Catalunha,Espanha
+Emanuella Barbosa,Desenvolvedor Backend,21820,Porto Alegre,RS,Brasil
+Elisa das Neves,Analista de Segurança,8742,Porto,Porto,Portugal
+Lívia Rocha,Analista de Redes,12368,Rio de Janeiro,RJ,Brasil
+Augusto Dias,Engenheiro de Dados,14152,Brasília,DF,Brasil
+Alana Pinto,Gerente de TI,22071,Lisboa,Lisboa,Portugal
+Caroline da Cunha,Analista de Suporte,5626,Brasília,DF,Brasil
+Olivia Moreira,Analista de Suporte,14829,Fortaleza,CE,Brasil
+Cauê da Conceição,Desenvolvedor Frontend,4903,Brasília,DF,Brasil
+Juliana Gomes,Analista de Segurança,21907,Buenos Aires,Buenos Aires,Argentina
+Sabrina da Conceição,Analista de Segurança,24516,Porto Alegre,RS,Brasil
+Dr. Heitor Santos,Cientista de Dados,11523,Brasília,DF,Brasil
+Rodrigo Novaes,Analista de Redes,4549,Curitiba,PR,Brasil
+Yasmin da Costa,DevOps Engineer,13532,Recife,PE,Brasil
+Antônio da Luz,Administrador de Sistemas,15010,Rio de Janeiro,RJ,Brasil
+Dr. Luiz Felipe Freitas,Arquiteto de Software,23838,Madrid,Madrid,Espanha
+Vitor Gabriel da Rocha,Desenvolvedor Frontend,19083,Belo Horizonte,MG,Brasil
+Natália Nogueira,Engenheiro de Dados,15614,Rio de Janeiro,RJ,Brasil
+Alana Farias,Analista de Segurança,4461,São Paulo,SP,Brasil
+Srta. Letícia Pinto,Scrum Master,4721,Rio de Janeiro,RJ,Brasil
+Esther Oliveira,Analista de Suporte,6081,Madrid,Madrid,Espanha
+Dra. Sarah da Luz,Analista de Redes,8589,Porto Alegre,RS,Brasil
+Sr. Davi Lucca Carvalho,DevOps Engineer,19134,Recife,PE,Brasil
+Maria Sophia Pinto,Administrador de Sistemas,9096,São Paulo,SP,Brasil
+Eduardo Correia,Engenheiro de Dados,18678,Lisboa,Lisboa,Portugal
+Luiza Fernandes,Cientista de Dados,22459,Florianópolis,SC,Brasil
+Dr. Nicolas Gomes,Desenvolvedor Backend,11814,Porto Alegre,RS,Brasil
+Lívia Duarte,Desenvolvedor Frontend,5701,Porto Alegre,RS,Brasil
+Srta. Fernanda Pinto,Analista de Suporte,10373,Rio de Janeiro,RJ,Brasil
+Sra. Yasmin Gomes,Gerente de TI,15968,São Paulo,SP,Brasil
+Bryan Cavalcanti,Scrum Master,8713,Madrid,Madrid,Espanha
+Vicente da Paz,Cientista de Dados,9393,Buenos Aires,Buenos Aires,Argentina
+Bruno Castro,Administrador de Sistemas,9403,Salvador,BA,Brasil
+Alexia da Rosa,Cientista de Dados,14518,Porto,Porto,Portugal
+Renan Santos,Administrador de Sistemas,4848,Curitiba,PR,Brasil
+Bárbara Campos,DevOps Engineer,20323,Buenos Aires,Buenos Aires,Argentina
+Julia Correia,Desenvolvedor Frontend,10844,São Paulo,SP,Brasil
+Julia Fogaça,Arquiteto de Software,14923,Lisboa,Lisboa,Portugal
+Olivia da Costa,Engenheiro de Dados,17909,Rio de Janeiro,RJ,Brasil
+João Felipe da Cunha,Arquiteto de Software,14329,Belo Horizonte,MG,Brasil
+Raquel da Cunha,Engenheiro de Dados,12808,Salvador,BA,Brasil
+Joaquim Dias,Analista de Suporte,18794,Recife,PE,Brasil
+Olivia Costa,Analista de Suporte,12589,Curitiba,PR,Brasil
+Dra. Ana Lívia Gonçalves,Arquiteto de Software,14119,Buenos Aires,Buenos Aires,Argentina
+Arthur da Paz,Engenheiro de Dados,9398,Recife,PE,Brasil
+Gabriel Fernandes,Analista de Redes,4904,Porto Alegre,RS,Brasil
+Marcelo Costa,Engenheiro de Dados,21701,São Paulo,SP,Brasil
+Stephany Carvalho,Gerente de TI,18755,Buenos Aires,Buenos Aires,Argentina
+Sarah Oliveira,Scrum Master,24129,São Paulo,SP,Brasil
+Luiz Gustavo Farias,Engenheiro de Dados,5249,Porto,Porto,Portugal
+Pedro da Cunha,Engenheiro de Dados,19945,São Paulo,SP,Brasil
+Luiz Miguel Moraes,Desenvolvedor Frontend,19679,Salvador,BA,Brasil
+Ian Souza,Engenheiro de Dados,15769,Florianópolis,SC,Brasil
+Enrico Cardoso,Desenvolvedor Backend,21796,Porto Alegre,RS,Brasil
+Joana Nunes,Analista de Suporte,21303,Porto,Porto,Portugal
+Gabrielly Fogaça,Cientista de Dados,24568,Madrid,Madrid,Espanha
+Giovanna Oliveira,Analista de Suporte,4784,Florianópolis,SC,Brasil
+Maria Cecília Farias,Arquiteto de Software,14868,Florianópolis,SC,Brasil
+Joana Cavalcanti,Analista de Segurança,19847,Curitiba,PR,Brasil
+Gustavo Gonçalves,Desenvolvedor Frontend,11581,São Paulo,SP,Brasil
+Cauê Rocha,Gerente de TI,7482,Salvador,BA,Brasil
+Lucas Gabriel Rodrigues,Cientista de Dados,18956,Porto Alegre,RS,Brasil
+Isabel Duarte,Administrador de Sistemas,14651,Curitiba,PR,Brasil
+Maria Julia Correia,Administrador de Sistemas,11733,Barcelona,Catalunha,Espanha
+Srta. Maria Vitória Duarte,Analista de Segurança,9825,Belo Horizonte,MG,Brasil
+Dr. Breno Peixoto,Administrador de Sistemas,22908,Curitiba,PR,Brasil
+Arthur Azevedo,Desenvolvedor Backend,7233,Rio de Janeiro,RJ,Brasil
+Agatha Barros,Gerente de TI,11726,Rio de Janeiro,RJ,Brasil
+Vitor Gabriel Alves,Arquiteto de Software,23713,Madrid,Madrid,Espanha
+Mariana Pinto,Arquiteto de Software,11786,Florianópolis,SC,Brasil
+Luana Jesus,Desenvolvedor Frontend,16446,Lisboa,Lisboa,Portugal
+Sofia Nogueira,Analista de Redes,18034,Florianópolis,SC,Brasil
+Vitor Hugo Mendes,Analista de Redes,21419,Porto,Porto,Portugal
+Dr. Breno Moreira,Gerente de TI,4364,Madrid,Madrid,Espanha
+Bernardo da Rocha,Analista de Segurança,11548,Belo Horizonte,MG,Brasil
+Stella Gomes,Analista de Redes,11811,Madrid,Madrid,Espanha
+Bárbara da Mota,Cientista de Dados,8987,Belo Horizonte,MG,Brasil
+Diogo Pires,Administrador de Sistemas,17387,Porto,Porto,Portugal
+Bryan da Costa,Arquiteto de Software,12565,Lisboa,Lisboa,Portugal
+Leandro Lima,Gerente de TI,24632,Curitiba,PR,Brasil
+Matheus Caldeira,Gerente de TI,14879,São Paulo,SP,Brasil
+Ana Clara Gonçalves,Desenvolvedor Backend,18714,Porto,Porto,Portugal
+Juan da Cunha,Desenvolvedor Frontend,4861,Recife,PE,Brasil
+Stella Novaes,Analista de Segurança,5487,Barcelona,Catalunha,Espanha
+Miguel Martins,Analista de Segurança,17027,Belo Horizonte,MG,Brasil
+Augusto Lopes,Analista de Redes,17982,Florianópolis,SC,Brasil
+Sra. Maria Clara Peixoto,Desenvolvedor Frontend,11904,Porto,Porto,Portugal
+Ana Clara Moreira,Gerente de TI,10008,Fortaleza,CE,Brasil
+Guilherme Freitas,Desenvolvedor Backend,5609,Florianópolis,SC,Brasil
+Clara Cardoso,Gerente de TI,23174,Fortaleza,CE,Brasil
+Natália Campos,Analista de Redes,14508,São Paulo,SP,Brasil
+Nicolas Dias,Desenvolvedor Backend,10889,Porto,Porto,Portugal
+Ana Lívia Moreira,Analista de Suporte,23579,Brasília,DF,Brasil
+Dr. Benjamin Campos,Arquiteto de Software,23118,Florianópolis,SC,Brasil
+Dr. João Guilherme Silveira,Cientista de Dados,14523,Porto,Porto,Portugal
+Lucas Fogaça,DevOps Engineer,21064,Porto Alegre,RS,Brasil
+Dr. Daniel Fogaça,Desenvolvedor Backend,10980,Salvador,BA,Brasil
+Anthony Lima,Desenvolvedor Backend,21776,Recife,PE,Brasil
+Maria Julia Souza,Analista de Suporte,16024,Porto,Porto,Portugal
+Emanuel Rezende,Gerente de TI,5514,Belo Horizonte,MG,Brasil
+Amanda Fernandes,Arquiteto de Software,8532,Madrid,Madrid,Espanha
+Daniela Araújo,Engenheiro de Dados,20806,Curitiba,PR,Brasil
+Laís Fernandes,Scrum Master,12444,São Paulo,SP,Brasil
+Kevin Gonçalves,Desenvolvedor Frontend,17052,Fortaleza,CE,Brasil
+Lorena Freitas,Engenheiro de Dados,24540,Barcelona,Catalunha,Espanha
+Antônio Sales,Gerente de TI,21213,Salvador,BA,Brasil
+Sr. Samuel Nogueira,Engenheiro de Dados,16947,Porto,Porto,Portugal
+Ana Sophia Moura,Analista de Redes,4439,Curitiba,PR,Brasil
+Isabelly da Mata,Desenvolvedor Frontend,7139,Porto Alegre,RS,Brasil
+Nicolas Fernandes,Gerente de TI,21557,Porto Alegre,RS,Brasil
+Beatriz Gonçalves,Scrum Master,8286,Salvador,BA,Brasil
+Arthur Barbosa,Analista de Redes,11074,Madrid,Madrid,Espanha
+Sophia Silveira,Analista de Segurança,4555,Brasília,DF,Brasil
+Luiz Gustavo da Luz,Arquiteto de Software,5728,Buenos Aires,Buenos Aires,Argentina
+Eduarda Azevedo,DevOps Engineer,17710,Rio de Janeiro,RJ,Brasil
+Erick Fernandes,Desenvolvedor Frontend,19604,Curitiba,PR,Brasil
+Lorena Moura,Scrum Master,8791,Brasília,DF,Brasil
+Sr. Heitor Barbosa,Arquiteto de Software,22440,Porto Alegre,RS,Brasil
+Enzo Gabriel Moraes,Administrador de Sistemas,18045,Brasília,DF,Brasil
+Alícia Viana,Desenvolvedor Frontend,6825,Belo Horizonte,MG,Brasil
+Ana Julia da Luz,Desenvolvedor Frontend,16961,Salvador,BA,Brasil
+Rafaela Oliveira,Cientista de Dados,18663,Curitiba,PR,Brasil
+Ana Clara Moraes,Administrador de Sistemas,17675,Buenos Aires,Buenos Aires,Argentina
+Lorenzo da Paz,Cientista de Dados,16819,São Paulo,SP,Brasil
+Fernanda Campos,Desenvolvedor Backend,24382,Curitiba,PR,Brasil
+Benjamin Moura,Arquiteto de Software,18696,Salvador,BA,Brasil
+Elisa Farias,Cientista de Dados,18813,Belo Horizonte,MG,Brasil
+Luana Farias,Cientista de Dados,4117,Florianópolis,SC,Brasil
+Luiz Miguel da Cunha,Desenvolvedor Backend,4621,Rio de Janeiro,RJ,Brasil
+Luana Freitas,Analista de Suporte,14529,Salvador,BA,Brasil
+Stephany Silveira,Gerente de TI,5004,Florianópolis,SC,Brasil
+Luiza Porto,Desenvolvedor Frontend,8569,Porto,Porto,Portugal
+Milena Pereira,Arquiteto de Software,9101,Porto,Porto,Portugal
+Lorena da Mata,Desenvolvedor Backend,8107,Florianópolis,SC,Brasil
+Marcelo Oliveira,Engenheiro de Dados,6496,Porto Alegre,RS,Brasil
+Luiz Otávio da Rocha,Analista de Suporte,22281,Brasília,DF,Brasil
+Vitor Hugo da Costa,Administrador de Sistemas,6854,Lisboa,Lisboa,Portugal
+Pedro Henrique da Costa,Engenheiro de Dados,16732,São Paulo,SP,Brasil
+Gustavo Henrique da Mota,Scrum Master,4576,Curitiba,PR,Brasil
+Dr. Gustavo Pinto,Cientista de Dados,8481,Buenos Aires,Buenos Aires,Argentina
+Dr. Danilo Nascimento,Desenvolvedor Backend,23252,Curitiba,PR,Brasil
+Julia Gonçalves,Analista de Segurança,6059,São Paulo,SP,Brasil
+Pedro Dias,Cientista de Dados,15089,Florianópolis,SC,Brasil
+Nicole da Mata,Engenheiro de Dados,23943,Porto Alegre,RS,Brasil
+Larissa Ferreira,Desenvolvedor Backend,9273,Porto Alegre,RS,Brasil
+Davi Luiz Cunha,Desenvolvedor Backend,10153,Fortaleza,CE,Brasil
+Thales Cavalcanti,Desenvolvedor Frontend,17519,Curitiba,PR,Brasil
+Gabrielly da Rosa,Desenvolvedor Backend,21556,Madrid,Madrid,Espanha
+Breno Ferreira,Analista de Suporte,22956,Florianópolis,SC,Brasil
+Ryan Souza,Cientista de Dados,14761,Rio de Janeiro,RJ,Brasil
+João Guilherme da Luz,Analista de Redes,14437,Barcelona,Catalunha,Espanha
+Leandro Fogaça,Analista de Redes,11267,Porto Alegre,RS,Brasil
