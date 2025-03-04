@@ -12,7 +12,7 @@ st.set_page_config(page_title="Análise de TI", layout="wide")
 st.title("Análise Exploratória de Dados de TI")
 
 # Carregar dados
-df = pd.read_csv('funcionarios_ti_nomes.csv')
+df = pd.read_csv('./funcionarios_ti_nomes.csv')
 
 # Seção 1: Distribuição de Salários
 st.header("Distribuição de Salários")
