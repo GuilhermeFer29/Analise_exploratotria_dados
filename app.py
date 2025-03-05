@@ -9,7 +9,7 @@ from geopy.geocoders import Nominatim
 from geopy.extra.rate_limiter import RateLimiter
 
 # Configurar a página
-st.set_page_config(page_title="Análise de TI", layout="wide", background="red")
+st.set_page_config(page_title="Análise de TI", layout="wide", background="#F5F5F5")
 st.title("Análise Exploratória de Dados de TI")
 
 # Carregar dados
